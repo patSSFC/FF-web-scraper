@@ -1,0 +1,17 @@
+{
+  "name": "FF_scraper",
+  "description": "A web scraper for my fantasy team",
+  "main": "index.js",
+  "authors": [
+    "Pat Yolian <pyolian@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/patSSFC",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
